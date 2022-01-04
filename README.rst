@@ -1,40 +1,41 @@
-AlertOps Expert Guidance
+What Is Mean Time to Resolution (MTTR)?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Mean time to resolution (MTTR) is a crucial service-level metric for incident management teams.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+This metric helps organizations evaluate the average amount of time between when an incident is reported and when an incident is fully resolved. And the higher an incident management team’s MTTR ( Mean time to resolution) , the more likely it becomes that an organization may suffer significant downtime and outages due to unresolved incidents.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+To better understand the immediate and long-lasting impact of MTTR, let’s consider a real world example.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Let’s say you’re an IT services provider with hundreds of clients and provide services via a SaaS monthly subscription model.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Your goal is to grow your business, but you also want to keep your current customer base happy by delivering the highest level of uptime.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+To achieve your goals, you get the best monitoring tools available today, i.e. tools that ensure your servers aren’t overloaded, your websites are up and running, your server’s memory is within tolerance and much more.
+But what happens if one of your servers crashes and brings down several of your websites at the same time?
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Thanks to your state-of-the-art monitoring tools, an alert is generated almost immediately and sent to your primary support group’s email address. This is where the human element of incident management comes into play.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Now, let’s consider what will happen if your on-call IT support professional is out of the office. In all likelihood, this professional eventually will respond to the alert.
 
-1 Red Canary 2021 Threat Detection Report
+However, it may take your on-call IT support professional anywhere from a few minutes to several hours to address the alert and resolve the incident.
+
+Meanwhile, if the incident escalates, it could cause downtime and outages that may negatively affect your organization, its employees and its customers.
+
+But imagine what it would be like if you had an incident management system that simply didn’t stop with sending an email and washing its hands clean of the problem.
+
+What if your alert management system was smart enough to add an automated voice call on top of the email for priority 1 level alerts? Or if it could add an SMS alert? Because when you’re living in today’s highly competitive global business landscape, can you really afford to lose even 30 minutes due to an unresolved incident?
+Ultimately, MTTR is the most important metric that a services provider should be tracking.
+
+You cannot stop catastrophes, but you can strive to resolve these incidents faster than ever before.
+
+And with the right alert management system in place, you can ensure your entire support organization becomes one integrated unit that can easily collaborate and communicate with each other using different modes of communication, leading to improved MTTR.
+
+As you explore incident management systems, think about MTTR. While there are lots of alert management tools on the market, choosing incident management software that delivers the perfect blend of customization and affordability could help you reduce your MTTR and limit the overall impact of critical incidents.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/mttr/
 
 Read more:
 ====
